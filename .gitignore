@@ -18,5 +18,4 @@ yarn-error.log
 
 /resources/admin/scss/css
 /storage/installed
-composer.lock
 /storage/bc.php
